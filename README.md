@@ -1,7 +1,8 @@
-# ELIoT
-Code repository for project ELIoT
+# Open ELIoT
+Code repository for project Open ELIoT.
 
 ## Description and objectives
+
 Damages from natural and man-made disasters such as floods, droughts and water pollution have increased significantly in recent years due to climate change, inadequate flood protection planning and irrational water management. At European level, the effects of floods and storms during 1998-09 as evident from the 213 recorded events, reached 1.126 human fatalities and €96bil. in economic losses. In terms of pollution, international surveys have shown that about 12.6 million people die annually from the effects of water, soil and air pollution. This negative impact could be significantly mitigated if timely and reliable information was made available through the monitoring of environmental parameters in water bodies.
 
 In Greece, public and private operators regularly monitor local and / or national networks (e.g. Surface Water Surveillance Network according to the Water Framework Directive, 2000/60 / EU, http://wfd.ypeka.gr/).
