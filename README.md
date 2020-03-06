@@ -1,5 +1,14 @@
 # Open ELIoT
-Code repository for project Open ELIoT.
+Central code repository for the Open ELIoT project.
+
+## Code repositories
+
+The project consists of standalone repositories for the hardware sensor node that collects environmental measurements, and the cloud IoT platform that stores and processes the data.
+
+You can access the two projects through their submodules.
+
+- [OpenELIoT Cloud IoT Platform](https://github.com/exmgr/openeliot-platform)
+- [OpenELIoT Sensor Node](https://github.com/exmgr/openeliot-node)
 
 ## Description and objectives
 

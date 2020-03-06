@@ -1,0 +1,6 @@
+[submodule "openeliot-platform"]
+	path = openeliot-platform
+	url = git@github.com:exmgr/openeliot-platform.git
+[submodule "openeliot-node"]
+	path = openeliot-node
+	url = git@github.com:exmgr/openeliot-node.git
