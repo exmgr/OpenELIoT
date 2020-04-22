@@ -10,6 +10,15 @@ You can access the two projects through their submodules.
 - [OpenELIoT Cloud IoT Platform](https://github.com/exmgr/openeliot-platform)
 - [OpenELIoT Sensor Node](https://github.com/exmgr/openeliot-node)
 
+## Documentation
+
+Full project documentation can be found here:
+
+- [Sensors Technical Guide](docs/2.4%20-%20Sensors%20Technical%20Guide%20v2.pdf)
+- [Platform Technical Guide](docs/2.5%20-%20Platform%20Technical%20Guide%20v2.pdf)
+
+You can find all available documents [here](docs/).
+
 ## Description and objectives
 
 Damages from natural and man-made disasters such as floods, droughts and water pollution have increased significantly in recent years due to climate change, inadequate flood protection planning and irrational water management. At European level, the effects of floods and storms during 1998-09 as evident from the 213 recorded events, reached 1.126 human fatalities and €96bil. in economic losses. In terms of pollution, international surveys have shown that about 12.6 million people die annually from the effects of water, soil and air pollution. This negative impact could be significantly mitigated if timely and reliable information was made available through the monitoring of environmental parameters in water bodies.
